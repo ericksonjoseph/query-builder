@@ -1,0 +1,8 @@
+{
+    "name": "ericksonjoseph/query-builder",
+    "autoload": {
+        "prs-4": {
+            "ericksonjoseph\\": "src/"
+        }
+    }
+}
